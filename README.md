@@ -181,7 +181,7 @@ Training MSE decreased sharply during the initial epochs and generally stabilise
 
 Metrics were calculated after converting predictions back to the original price scale.
 
-| Company | Method | MSE ($\text{INR}^2$) | MAE ($\text{INR}$) | RMSE ($\text{INR}$) | MAPE ($\%$) |
+| Company | Method | MSE ($\text{INR}^2$) | MAE ($\text{INR}$) | RMSE ($\text{INR}$) | MAPE (%) |
 |---|---|---:|---:|---:|---:|
 | SBI | RNN | 1,285.89 | 28.64 | 35.86 | 2.78 |
 | SBI | Last close | 104.60 | 8.24 | 10.23 | 0.81 |
